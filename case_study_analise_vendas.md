@@ -29,7 +29,6 @@ Antes de qualquer query, o pedido foi decomposto em perguntas concretas e respon
 Duas decisões metodológicas relevantes, tomadas conscientemente:
 
 - **Definição de prazo:** um prazo de análise não é automático — depende do que a pergunta de negócio precisa. Para identificar clientes valiosos (pergunta 2), um prazo curto demais (ex.: 1 mês) excluiria clientes fiéis que compram com menor frequência mas maior valor; por isso optou-se por uma janela de 6 meses.
-- **Separação de perguntas fundidas:** a formulação inicial tentava responder a três coisas em uma só pergunta (quem compra mais + em que período + em que categorias). Separar em perguntas distintas resultou em queries mais simples e em resultados mais fáceis de validar.
 
 ---
 
